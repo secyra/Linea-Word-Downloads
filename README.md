@@ -14,7 +14,7 @@
 
 - Windows .exe
 
--macOS .dmg
+- macOS .dmg
 
 - Linux .AppImage
 
